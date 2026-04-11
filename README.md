@@ -1,4 +1,4 @@
-# NaughtyBezierCurves
+# Unity-BezierCurves
 NaughtyBezierCurves is an extension for Unity that provides a BezierCurve GameObject.
 
 <img src="https://github.com/dbrizov/dbrizov.github.io/blob/master/images/project-images/bezier-curve/bezier-curve.gif" alt="gif" width="350" /><br />
